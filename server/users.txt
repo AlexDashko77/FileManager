@@ -1,0 +1,2 @@
+{"name":"alex","email":"alex@gmail.com","password":"123","files":["text.txt","text123.txt"]}
+{"name":"artem","email":"artem@gmail.com","password":"123","files":["123.txt"]}
